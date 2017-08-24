@@ -8,8 +8,8 @@ Team Members:
 
 2.Varun Reddy 
 
-<a href="https://github.com/saikaranbalmuri/FindMyCar/blob/master/carosel/InfoVizFRwebsite.PNG" target="_blank">
-<img src="https://github.com/saikaranbalmuri/FindMyCar/blob/master/carosel/InfoVizFRwebsite.PNG.PNG" height="250">
+<a href="https://github.com/saikaranbalmuri/FindMyCar/blob/master/carosel/InfoViz_FRwebsite.PNG" target="_blank">
+<img src=https://github.com/saikaranbalmuri/FindMyCar/blob/master/carosel/InfoViz_FRwebsite.PNG" height="250">
 </a>
 
 <a href="https://github.com/saikaranbalmuri/FindMyCar/blob/master/carosel/InfoViz2.PNG" target="_blank">
